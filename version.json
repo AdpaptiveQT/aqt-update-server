@@ -1,0 +1,19 @@
+{
+  "version": "2.0",
+  "release_date": "2025-11-25",
+  "payload": {
+    "file_name": "AQT_Payload_v2.0.zip",
+    "download_url": "https://raw.githubusercontent.com/AdpaptiveQT/aqt-update-server/main/AQT_Payload_v2.0.zip",
+    "checksum_sha256": "5E2853D985799675A2429962E9371266DDEFE077B01C2A1D058B3AA7EF6BF10F"
+  },
+  "modules": [
+    "AQT_Debug_Logger.bas",
+    "AQT_SHA256.bas",
+    "AQT_Utils.bas",
+    "AQT_Licensing_Engine.bas",
+    "AQT_Update_Manager.bas",
+    "AQT_Log_Engine.bas",
+    "AQT_XP_Engine.bas",
+    "AQT_UI_Core.bas"
+  ]
+}
