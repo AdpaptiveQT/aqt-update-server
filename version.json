@@ -3,7 +3,7 @@
   "release_date": "2025-11-25",
   "payload": {
     "file_name": "AQT_Payload_v2.0.zip",
-    "download_url": "https://raw.githubusercontent.com/AdpaptiveQT/aqt-update-server/main/AQT_Payload_v2.0.zip",
+    "download_url": "https://raw.githubusercontent.com/AdaptiveQT/aqt-update-server/main/AQT_Payload_v2.0.zip",
     "checksum_sha256": "5E2853D985799675A2429962E9371266DDEFE077B01C2A1D058B3AA7EF6BF10F"
   },
   "modules": [
